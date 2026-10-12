@@ -1,0 +1,20 @@
+{
+  "name": "matt-pococok-skills-test",
+  "version": "1.0.0",
+  "description": "A sandbox to test usage of skills",
+  "homepage": "https://github.com/MarkTeets/matt-pococok-skills-test#readme",
+  "bugs": {
+    "url": "https://github.com/MarkTeets/matt-pococok-skills-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTeets/matt-pococok-skills-test.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
